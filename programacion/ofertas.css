@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(232, 235, 98);
+}
+header nav {
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+}
+
+a{
+    
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+}
+
+header nav img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.Bicicletas{
+    margin-left: 300px;
+    padding: 20px;
+    
+}
+.Bicicletas img{
+    width: 300px;
+    height: 250px;
+    }
+.Asadorportatil{
+    margin-right: 800px;
+    padding: 20px;
+}
+.Asadorportatil img{
+    width: 200px;
+    height: 250px;
+}
+.Equipodesonido{
+    position:absolute;
+    margin-left: 900px;
+    top:60px;
+    padding: 90px;
+}.Equipodesonido img{
+    width: 400px;
+    height: 250px;
+}
+.Televisor{
+    position: absolute;
+    margin-left: 900px;
+    top:100px;
+    padding: 20px;
+}
+
+.Televisor img{
+    width: 300px;
+    height: 250px;
+}
+
+
+
+footer img{
+    
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(185, 185, 191);
+}

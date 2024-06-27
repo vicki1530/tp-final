@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(232, 235, 98);
+}
+header nav {
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+}
+
+a{
+    
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+}
+
+header nav img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.Microondas{
+    margin-left: 300px;
+    padding: 20px;
+    
+}
+.Microondas img{
+    width: 300px;
+    height: 250px;
+    }
+.Cocinas{
+    margin-left: 900px;
+    padding: 20px;
+}
+.Cocinas img{
+    width: 200px;
+    height: 250px;
+}
+.Lavarropas{
+    position:absolute;
+    margin-left: 200px;
+    top:400px;
+    padding: 90px;
+}.Lavarropas img{
+    width: 400px;
+    height: 250px;
+}
+.Heladeras{
+    position: absolute;
+    margin-left: 900px;
+    top:100px;
+    padding: 20px;
+}
+
+.Heladeras img{
+    width: 300px;
+    height: 250px;
+}
+
+
+
+footer img{
+    
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(185, 185, 191);
+}

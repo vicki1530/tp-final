@@ -1,0 +1,75 @@
+.Contenedorlinks{
+    text-align: center;
+    background-color: yellow;
+    font-size: 30px;
+}
+.contenedorpadre{
+    text-align: center;
+    background-color: rgb(219, 153, 30)
+}
+aside section {
+    border: 3px black;
+}
+.sidebar section{
+    border: 3px black;
+}
+
+nav a{
+    color: rgb(2, 2, 2);
+    text-align: center;
+}
+header nav img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.Ofertas{
+    margin-right: 600px;
+    padding: 10px;
+    
+    
+}
+.Ofertas img{
+    width: 300px;
+    height: 250px;
+}
+
+.Celulares{
+    position:absolute;
+    margin-left: 700px;
+    top:40px;
+    padding: 15px;  
+}
+.Celulares img{
+    width: 300px;
+    height: 250px;
+}
+
+.Articulos{
+    margin-right: 600px;
+    padding: 20px;
+}
+.Articulos img{
+    width: 300px;
+    height: 250px;
+}
+
+.Calzado{
+    position: absolute;
+    margin-left: 700px;
+    top:390px;
+    padding: 15px;
+}
+.Calzado img{
+    width: 300px;
+    height: 250px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(156, 156, 146);
+}
+footer img{
+    width: 50px;
+    height: 50px;
+}
